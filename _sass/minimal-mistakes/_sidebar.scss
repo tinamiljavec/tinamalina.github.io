@@ -57,7 +57,7 @@
   p,
   li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: $type-size-7;
     line-height: 1.5;
   }
 
@@ -89,13 +89,6 @@
       position: sticky;
       top: 2em;
       float: right;
-
-      .toc {
-        .toc__menu {
-          overflow-y: auto;
-          max-height: calc(100vh - 7em);
-        }
-      }
     }
   }
 
@@ -124,17 +117,17 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 140px;
+  height: auto;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 150px;
     height: auto;
   }
 
   img {
-    max-width: 110px;
+    max-width: 140px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -317,9 +310,11 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    -webkit-transition: font-size 0.1s linear;
+    transition: font-size 0.1s linear;
 
     &:hover {
-      text-decoration: underline;
+      font-size: $type-size-3;
     }
   }
 }
