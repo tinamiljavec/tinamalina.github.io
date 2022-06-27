@@ -17,14 +17,21 @@ Izrednega pomena pri načrtovanju spletne poslovne strategije je **USP (=unique 
 2. Kdo je naša konkurenca?
 3. S katerimi problemi se sooča naša ciljna skupina?
 4. Kako lahko mi pripomoremo k rešitvam njihovih problemov?
+
 Zelo uporabna je **SWOT analiza (strengths, weaknesses, opportunities, threats)**, ki analizira naše prednosti, slabosti, priložnosti in grožnje. Omogoča nam razčlenitev našega izdelka/storitve/poslovanja na to, katere so naše prednosti pred konkurenco, v čem smo slabši od konkurence - se pravi, kaj lahko še izboljšamo, kaj so naše priložnosti, v čem smo lahko še boljši in kaj so naše grožnje - na kaj moramo biti pozorni. 
 Ko smo odgovorili na ključna vprašanja in naredili SWOT analizo, pa nas čaka še en izredno pomemben korak in sicer določitev ciljev. Cilje moramo postaviti zato, da vemo k čemu stremimo in na kaj se moramo pravzaprav osredotočiti.  Merimo jih s **KPI-ji (key performance indicators), oziroma s kazalci uspešnosti**. To so kvantificirane mere, ki nam pomagajo, da se lažje osredotočimo na metrike, za doseganje naših ciljev. Cilji, ki si jih zastavimo, morajo biti **merljivi**, **praktični**, **dosegljivi** in **usmerjeni**, le tako lahko dosežemo dolgoročen uspeh.
+
+<figure class="align-center">
+    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-06-15-google-digitalna-garaza/zapiski.jpg">
+    <figcaption style="text-align:center">Zapiski</figcaption>
+</figure>
 
 #### Vsebinski marketing
 Vsebinski marketing je osnovan na ustvarjanju in deljenju spletnih vsebin, kot so videi, blogi in objave na socialnih omrežjih. Temelji na povečanju zavedanja potrošnikov o podjetju/organizaciji/znamki. Pri ustvarjanju kampanje vsebinskega marketinga, moramo upoštevati naslednja tri priporočila:
 1. Odgovoriti moramo na vprašanja občinstva.
 2. Ustvarjati moramo neke vrednote.
 3. Jih prepričati, da želijo še več.
+
 Ena izmed ključnih sestavin vsebinskega marketinga pa je **CTA (=call to action)**, poziv k dejanju. Naj gre za oglas, navadno objavo ali pa obvestilo, v vsej tej poplavi vsebin na socialnih omrežjih je izrednega pomena to, da pridobimo porabnikovo pozornost - ga ustavimo za trenutek in ga pritegnemo, da prebere prav našo vsebino. Pri tem lahko definiramo tri vrste medijskih kanalov - **Owned Media** so kanali, ki jih znamka/podjetje upravlja, npr. spletna stran, blog in profili na socialnih omrežjih. **Earned Media** so kanali, ki prvotno niso del znamke/podjetja, vendar se ta na njih pojavi, npr. blog o potovanjih, ki deli našo vsebino. **Paid Media** pa so kanali, za katere plačamo, da se na njih pojavimo. 
 
 #### Email marketing
@@ -59,6 +66,7 @@ V zadnjem času je največkrat uporabljen izraz za spletno trgovino **e-commerce
 3. PODROBNI OPISI - podroben opis izdelka je potreben, saj zraven nimamo prodajalca, ki bi lahko odgovoril na naša vprašanja v zvezi z njim, zato si v tem primeru lahko sami preberemo vse, kar bi nas utegnilo zanimati o izdelku.
 4. MNENJA STRANK - ljudje vedno bolj zaupamo ljudem, ki so izdelek že preizkusili, zato nam lahko njihovo mnenje o njem še kako pomaga - mogoče nas bo zmotila ista stvar, kot je nekoga, medtem ko drug tega sploh ni opazil.
 5. ENOSTAVEN PLAČILNI SISTEM Z VELIKO MOŽNOSTMI - ljudje nakupujemo preko spleta na različne načine, nekateri raje plačajo izdelek, ko ga dobijo v roke, drugim ni problem plačati vnaprej, saj jim je pomembno, da izdelek čim prej dobijo. Zato je zelo pomembno, da spletna trgovina omogoča različne vrste plačila, da ustreže vsem strankam.
+
 Velika prednost spletne prodaje je, da lahko merimo celotno marketinško izkušnjo posameznega kupca na naši strani. 
 
 Toliko o osnovah digitalnega marketinga, v naslednjem članku pa se bomo ukvarjali z **email marketingom**.
