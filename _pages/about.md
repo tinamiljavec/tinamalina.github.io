@@ -7,7 +7,7 @@ Moje ime je <b style="color:#00adb5">Tina Miljavec</b> in sem zagnana 21-letna n
 ki se ne boji težkih izzivov in nenehno nadgrajuje svoje znanje.
 
 
-Sem študentka tretjega (zadnjega) letnika Komunikologije - tržnega komuniciranja in odnosov z javnostmi na Fakulteti za družbene vede, v Ljubljani. Tekom študija sem bila - in sem še vedno, zelo aktivna v študentskih društvih. 
+Pred kratkim sem zaključila študij Komunikologije - tržnega komuniciranja in odnosov z javnostmi na Fakulteti za družbene vede, v Ljubljani. Tekom študija sem bila zelo aktivna v študentskih društvih. 
 
 #### Študentska društva
 
@@ -36,10 +36,15 @@ V želji po nadgraditvi znanj, pridobljenih v okviru študija, sem poleti, leta 
 
 Potem sem opravila še malo "resnejši" in tudi bolj obsežen tečaj s področja digitalnega marketinga na svetovno znanem izobraževalnem portalu **Eazl**. S tem sem pridobila naslednji certifikat:
 *    Growth Hacking with Digital Marketing, EAZL, 15. september 2021
+*    Basics of digital marketing, Google Digital Garage, February, 2022
+*    Google Analytics for Beginners, Google Analytics Academy, February 2022
+*    Email Marketing, eMarketing Institute, March 2022
   
 #### Praktične izkušnje
 
 Moja strast do marketinga se je tekom študija le še povečala, zato sem lani poleg aktivnega dela v študentskih društvih začela še svoje prvo študentsko delo v marketingu pri butični e-commerce agenciji **WeScale**. Kot asistentka na družbenih omrežjih, sem skrbela za Facebook profil naročnika, ki je bil prisoten na desetih evropskih trgih. Pripravljala sem objave v angleščini in slovenščini, komunicirala z lokalnimi prevajalci in načrtovala objave v Facebook Creator Studiu. Spremljala sem tudi KPI-je in na podlagi njih pripravljala plan za naprej. Nekaj časa sem pripravljala tudi objave za Pinterest profil istega naročnika. Moja pot v WeScale-u se je ravnokar zaključila, saj si želim pridobiti več praktičnih izkušenj na področju digitalnega marketinga. Rada bi se v prvi vrsti preizkusila še v Google in Facebook oglaševanju, izkusila kako poteka sodelovanje z influencerji, kako deluje e-mail marketing in prišla do mesta Marketing Manager-ke, kjer bi sama prevzela odgovornost za upravljanje vseh obstoječih kanalov naročnika. 
+
+Trenutno svoje znanje nadgrajujem v podjetju **Proevent**, kjer skrbim za Facebook profile naročnikov, pripravljam tekste in kreative za njihove objave, ustvarjam Email marketing kampanje in se spoznavam s Facebook oglaševanjem. 
 
 
 
