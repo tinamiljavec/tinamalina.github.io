@@ -26,7 +26,7 @@ Vozilo sem izrezala, ga prilepila v puščavo in nato ugotavljala, kako bi vozil
 Na koncu sem izbrisala vse logotipe, saj sem prišla do spoznanja, da ljudje ne bodo brali mojih misli in verjetno ne bodo razumeli, kaj sem hotela s tem povedati. Torej v zadnji fazi sem se osredotočila na videnje opazovalcev in zato kot pojasnilo oziroma neko usmeritev, zraven dodala kratek pripis, ki je malo zapolnil prostor, popestril moj plakat in opazovalcu pomagal k boljšemu razumevanju sporočila plakata. Pripis se je glasil takole: **Doživeti privid v naravi je nekaj tako izjemnega kot novi Peugeot 308.**
 
 <figure class="align-center">
-    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-02-18-kreativni-natecaj/izjemen_kreativni_natecaj.jpg">
+    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-02-18-kreativni-natecaj/Izjemen_kreativni_natecaj.jpg">
     <figcaption style="text-align:center">Izjemnost puščave</figcaption>
 </figure>
 
