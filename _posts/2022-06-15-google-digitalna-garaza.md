@@ -1,11 +1,13 @@
 ---
 title: "Google digitalna garaža"
-excerpt: "Zapiski z učenja s ppomočjo Google digitalne garaže"
+excerpt: "Zapiski z učenja s pomočjo Google digitalne garaže"
 categories:
   - learning
 tags:
   - learning
 ---
+
+Učenja z Google digitalno garažo sem se lotila, ker sem želela na čim bolj praktičen način spoznavati teorijo digitalnega marketinga. Na faksu je bilo veliko teorije, ki je bila zelo monotona in ni bila tako privlačna za učenje. Zato sem se odločila, da se bom skušala več naučiti preko različnih spletnih tečajev, kjer so stvari bolj praktično in shematsko razložene in jih je zato tudi lažje razumeti. Slišala sem veliko priporočil za opravljanje Google digitalne garaže, na nekem razgovoru pa so me celo vprašali po certifikatu o opravljeni Google digitalni garaži. Zapiske, ki sem jih naredila tekom opravljanja tečaja, sem zbrala v tem članku. 
 
 ## Osnove digitalnega marketinga
 Pri vsaki stvari je potrebno začeti z osnovami, zato se tudi Googlova digitalna garaža začne z osnovami digitalnega marketinga. Pri vzpostavljanju digitalnega marketinga, moramo najprej načrtovati spletno poslovno strategijo, ki je v tem primeru naš temelj, na podlagi katerega lahko nato vzpostavimo celotno marketinško akcijo.
