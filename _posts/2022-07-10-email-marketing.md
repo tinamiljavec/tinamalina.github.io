@@ -115,4 +115,3 @@ Za konec navedem še nekaj orodij, ki jih lahko uporabljamo pri pripravi sporoč
 - HubSpot
 
 V tem članku smo obdelali nekaj osnov **Email marketinga**, sedaj pa je čas, da se v njem tudi preizkusimo. Do naslednjič. 
-
