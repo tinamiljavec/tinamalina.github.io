@@ -3,7 +3,7 @@ permalink: /about/
 title: "Kdo sem?"
 ---
 
-Moje ime je <b style="color:#00adb5">Tina Miljavec</b> in sem zagnana 22-letna Diplomantka Komunikologije - tržnega komuniciranja in odnosov z javnostmi in navdušenka nad digitalnim marketingom, ki se ne boji težkih izzivov in nenehno nadgrajuje svoje znanje.
+Moje ime je <b style="color:rgb(250,0,130)">Tina Miljavec</b> in sem zagnana 22-letna Diplomantka Komunikologije - tržnega komuniciranja in odnosov z javnostmi in navdušenka nad digitalnim marketingom, ki se ne boji težkih izzivov in nenehno nadgrajuje svoje znanje.
 
 #### Praktične izkušnje
 
@@ -16,6 +16,7 @@ Nadaljevala sem z nadgrajevanjem svojega znanja v podjetju **Proevent**, kjer se
 ##### HS Plus
 Trenutno svoje znanje nadgrajujem v podjetju **HS Plus** in sicer v Facebook oglaševanju kot Junior Facebook oglaševalka. Skrbim za pripravo kampanj, ki so večinoma usmerjene h cilju konverzij, za njihovo optimizacijo in spremljanje analitike, njihovo analizo ter pripravo načrtov za prihodnost. Testiram različne kreative in besedila, s ciljem najti najbolj optimalne možnosti oglaševanja. 
 
+---
 
 #### Tečaji in certifikati
 
@@ -34,22 +35,22 @@ Potem sem opravila še malo "resnejši" in tudi bolj obsežen tečaj s področja
 *    Google Analytics for Beginners, Google Analytics Academy, February 2022
 *    Email Marketing, eMarketing Institute, March 2022
 
-
+---
 
 Tekom študija sem bila zelo aktivna v študentskih društvih. 
 
 #### Študentska društva
 
-##### ŠK FDV - Študentski klub Fakultete za družbene vede
+###### ŠK FDV - Študentski klub Fakultete za družbene vede
 Eno leto sem bila del upravnega odbora Študentskega kluba Fakultete za družbene vede in sem skrbela za Facebook in Instagram profil društva, ter sodelovala pri organizaciji dogodkov. Pripravljala sem grafike in objave za vse dogodke, ki smo jih organizirali, jih objavljala na profilu obeh socialnih omrežij in spremljala njihove KPI-je. Takrat sem se prvič srečala z upravljanjem tujega profila in zelo uživala v ustvarjanju na njem.
 
-##### ŠSPRSS - Študentska sekcija slovenskega društva za odnose z javnostmi
+###### ŠSPRSS - Študentska sekcija slovenskega društva za odnose z javnostmi
 Vsa tri leta študija sem bila zelo aktivna v Študentski sekciji slovenskega društva za odnose z javnostmi. Aktivno sem sodelovala na svojem področju, hkrati pa tudi na vseh večjih projektih, ki jih je društvo organiziralo. Prvo leto sem delovala na področju izobraževanja, preostali dve leti pa na področju internega komuniciranja. Na področju izobraževanju smo organizirali izobraževalne dogodke za člane - izbrali temo izobraževanja, kontaktirali govorce, rezervirali prostor, izvedli sam dogodek in na koncu prejeli ogromno novega znanja. Na področju internega komuniciranja pa smo organizirali družabne dogodke za člane, da smo se med seboj spoznavali in povezovali, pletli nove prijateljske vezi in si tako tudi širili krog ljudi, ki jih lahko v določenih situacijah prosimo za pomoč in se od njih tudi marsikaj naučimo. 
 Poleg tega sem sodelovala na dveh večjih projektih, ki ju društvo organizira in sicer **PR teater** - študentska konferenca na področju odnosov z javnostmi, kjer sem bila lani del sponzorstev, letos del kreative. Gre za enodnevno konferenco s področja odnosov z javnostmi, za katero vsako leto izberemo drugo glavno temo ter kjer izbrani govorci predstavijo svoje poglede in delijo svoja znanja s področja izbrane teme. Vzporedno na dan dogodka poleg predavanj potekajo tudi delavnice, kjer udeleženci pod vodstvom govorcev ustvarjajo in izpopolnjujejo svoja znanja. Področje sponzorstev je obsegalo kontaktiranje potencialnih sponzorjev, v primeru dogovorjenega sodelovanja vso komunikacijo z njimi, spremljanje vseh objav in omemb, ki smo jim jih ponudili v zameno ter na koncu še kliping - poročilo o vseh opravljenih obveznosti z naše strani. Področje kreative pa je obsegalo izbiro teme in grafične podobe dogodka, sodelovanje z grafičnim oblikovalcem in fotografom, ter pripravo grafik za Facebook in Instagram objave dogodka. 
 Drugi večji projekt društva je **FreeŠn** - študentski natečaj kreativnega komuniciranja na katerem sem skrbela za logistiko. Gre za enomesečni dogodek, kjer se prepletajo delavnice in natečaji, vezani na izbrano temo. Na delavnicah udeleženci ustvarjajo pod vodstvom predavateljev in prebujajo svojo kreativno plat. Pri natečajih pa za znana podjetja ali agencije ustvarijo izdelke, med katerimi na koncu le-ta izberejo tri najboljša dela, ki so tudi nagrajena in javno objavljena. 
 
 
-##### ŠSDMS - Študentska sekcija društva za marketing
+###### ŠSDMS - Študentska sekcija društva za marketing
 Zadnje leto študija sem bila aktivna tudi v Študentski sekciji slovenskega društva za marketing, v okviru katerega sem bila del organizacijske ekipe največje slovenske marketinške konkurence - **Fanfare**. Gre za enodnevno konferenco s področja marketinga, kjer izbrani govorci delijo svoja znanja in predstavljajo najnovejše trende na področju marketinga. Delovala sem v ekipi za marketing, kjer smo skrbeli za komuniciranje o dogodku preko vseh medijev. Komunicirali smo program in vsebino dogodka, sponzorje in vse ostale informacije, ki so potrebne za uspešno izvedbo dogodka. 
 
 
