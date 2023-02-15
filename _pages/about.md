@@ -49,21 +49,6 @@ Drugi večji projekt društva je **FreeŠn** - študentski natečaj kreativnega 
 ##### ŠSDMS - Študentska sekcija društva za marketing
 Zadnje leto študija sem bila aktivna tudi v Študentski sekciji slovenskega društva za marketing, v okviru katerega sem bila del organizacijske ekipe največje slovenske marketinške konkurence - **Fanfare**. Gre za enodnevno konferenco s področja marketinga, kjer izbrani govorci delijo svoja znanja in predstavljajo najnovejše trende na področju marketinga. Delovala sem v ekipi za marketing, kjer smo skrbeli za komuniciranje o dogodku preko vseh medijev. Komunicirali smo program in vsebino dogodka, sponzorje in vse ostale informacije, ki so potrebne za uspešno izvedbo dogodka. 
 
-#### Tečaji in certifikati
 
-V želji po nadgraditvi znanj, pridobljenih v okviru študija, sem poleti, leta 2021 opravila več tečajev na spletni platformi Coursera. Tečaje sem izbirala na podlagi lastnih interesov in zanimanj, ter želja po širini znanja. S tem sem pridobila naslednje certifikate:
-* Use Canva to Create Social Media Visuals for Business, 8. julij 2021
-* Google Ads for Beginners, 8. julij 2021
-* Introduction to Customer Journey Mapping in Miro, 12. julij 2021
-* Create a Landing Page using Mailchimp, 12. julij 2021
-* Use Google Forms for Marketing Surveys, 13. julij 2021
-* Create a 1-Page Marketing Plan with Google Docs, 11. avgust 2021
-* Small Business Marketing Using LinkedIn, 30. avgust 2021
-
-Potem sem opravila še malo "resnejši" in tudi bolj obsežen tečaj s področja digitalnega marketinga na svetovno znanem izobraževalnem portalu **Eazl**. S tem sem pridobila naslednji certifikat:
-*    Growth Hacking with Digital Marketing, EAZL, 15. september 2021
-*    Basics of digital marketing, Google Digital Garage, February, 2022
-*    Google Analytics for Beginners, Google Analytics Academy, February 2022
-*    Email Marketing, eMarketing Institute, March 2022
   
 
