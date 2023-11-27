@@ -3,7 +3,7 @@ permalink: /about/
 title: "Kdo sem?"
 ---
 
-Moje ime je <b style="color:rgb(250,0,130)">Tina Miljavec</b> in sem zagnana 22-letna Diplomantka Komunikologije - tržnega komuniciranja in odnosov z javnostmi in navdušenka nad digitalnim marketingom, ki se ne boji težkih izzivov in nenehno nadgrajuje svoje znanje.
+Moje ime je <b style="color:rgb(250,0,130)">Tina Novak</b> in sem zagnana 23-letna Diplomantka Komunikologije - tržnega komuniciranja in odnosov z javnostmi ter navdušenka nad digitalnim marketingom, ki se ne boji težkih izzivov in nenehno nadgrajuje svoje znanje.
 
 #### Praktične izkušnje
 
@@ -11,10 +11,10 @@ Moje ime je <b style="color:rgb(250,0,130)">Tina Miljavec</b> in sem zagnana 22-
 Moja strast do marketinga se je tekom študija le še povečala, zato sem lani poleg aktivnega dela v študentskih društvih začela še svoje prvo študentsko delo v marketingu pri butični e-commerce agenciji **WeScale**. Kot asistentka na družbenih omrežjih, sem skrbela za Facebook profil naročnika, ki je bil prisoten na desetih evropskih trgih. Pripravljala sem objave v angleščini in slovenščini, komunicirala z lokalnimi prevajalci in načrtovala objave v Facebook Creator Studiu. Spremljala sem tudi KPI-je in na podlagi njih pripravljala plan za naprej. Nekaj časa sem pripravljala tudi objave za Pinterest profil istega naročnika. Moja pot v WeScale-u se je zaključila, saj sem si želela pridobiti več praktičnih izkušenj na področju digitalnega marketinga. Želela sem se preizkusiti še v Google in Facebook oglaševanju, izkusiti kako poteka sodelovanje z influencerji, kako deluje Email marketing in v prihodnosti si želim priti do mesta Marketing Manager-ke, kjer bi sama prevzela odgovornost za upravljanje vseh obstoječih kanalov naročnika. 
 
 ##### Proevent
-Nadaljevala sem z nadgrajevanjem svojega znanja v podjetju **Proevent**, kjer sem skrbela za Facebook profile naročnikov, pripravljala tekste in kreative za njihove organske objave in jih tudi objavljala, ustvarjala Email marketing kampanje s pomočjo orodja Mailchimp - mesečne novičnike, ki so bili razposlani vsem naročnikom in spoznala osnove Facebook oglaševanja. 
+Svoje znanje sem nato nadgrajevala v podjetju **Proevent**, ki se ukvarja predvsem z organizacijo dogodkov, del podjetja pa sestavlja tudi marketinška agencija, ki skrbi za marketing za zunanje naročnike in pri čemer sem sama sodelovala največ. Skrbela sem predvsem za Facebook profile naročnikov, pripravljala sem organske objave - besedila in kreative, ustvarjala Email marketing kampanje s pomočjo orodja Mailchimp - mesečne novičnike, ki so bili razposlani vsem strankam in spoznala osnove Facebook oglaševanja. Poleg tega pa sem veliko sodelovala tudi pri organizaciji dogodkov, kjer sem skrbela predvsem za marketing. 
 
 ##### HS Plus
-Trenutno svoje znanje nadgrajujem v podjetju **HS Plus** in sicer v Facebook oglaševanju kot Junior Facebook oglaševalka. Skrbim za pripravo kampanj, ki so večinoma usmerjene h cilju konverzij, za njihovo optimizacijo in spremljanje analitike, njihovo analizo ter pripravo načrtov za prihodnost. Testiram različne kreative in besedila, s ciljem najti najbolj optimalne možnosti oglaševanja. 
+Trenutno svoje znanje nadgrajujem v podjetju **HS Plus** kot Facebook oglaševalka. Skrbim za pripravo kampanj, ki so večinoma usmerjene h cilju konverzij, za njihovo optimizacijo in spremljanje analitike, njihovo analizo ter pripravo načrtov za prihodnost. Testiram različne kreative in besedila, s ciljem najti najbolj optimalne možnosti oglaševanja. Oglašujem izdelke iz spletne trgovine, ki ponuja širok izbor izdelkov na veliko evropskih trgih. Moje delo v največji meri obsega spremljanje analitike in upravljanje z vsotami, poleg tega pa še iskanje novih načinov postavljanja kampanj, spremljanja novosti na področju Mete, spremljanje trendov in opazovanje konkurence.
 
 ---
 
