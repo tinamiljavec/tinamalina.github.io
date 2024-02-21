@@ -29,11 +29,12 @@ V želji po nadgraditvi znanj, pridobljenih v okviru študija, sem poleti, leta 
 * Create a 1-Page Marketing Plan with Google Docs, 11. avgust 2021
 * Small Business Marketing Using LinkedIn, 30. avgust 2021
 
-Potem sem opravila še malo "resnejši" in tudi bolj obsežen tečaj s področja digitalnega marketinga na svetovno znanem izobraževalnem portalu **Eazl**. S tem sem pridobila naslednji certifikat:
-*    Growth Hacking with Digital Marketing, EAZL, 15. september 2021
-*    Basics of digital marketing, Google Digital Garage, February, 2022
-*    Google Analytics for Beginners, Google Analytics Academy, February 2022
-*    Email Marketing, eMarketing Institute, March 2022
+Potem sem se lotila opravljanja še malo "resnejših" in tudi bolj obsežnih tečajev s področja digitalnega marketinga, da bi se z njimi res čim bolj približala praktičnim izkušnjam in seveda tudi razširila svoja področja znanja.
+*    **Growth Hacking with Digital Marketing**, EAZL, eptember 2021
+*    **Basics of digital marketing**, Google Digital Garage, februar, 2022
+*    **Google Analytics for Beginners**, Google Analytics Academy, februar 2022
+*    **Email Marketing**, eMarketing Institute, marec 2022
+*    **Digital Marketing Masterclass**, Udemy, januar 2024
 
 ---
 

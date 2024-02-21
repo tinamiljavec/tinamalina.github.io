@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Tina Malina"
 title_separator          : "-"
 subtitle                 : ""
-name                     : "Tina Miljavec"
+name                     : "Tina Novak"
 description              : "Digitalni marketing"
 url                      : "https://www.tinamalina.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tina Miljavec"
+  name             : "Tina Novak"
   avatar           : "/assets/images/about/tina.jpg"
   avatar_smile     : "/assets/images/about/tina.jpg"
   bio              : "Digitalni marketing"
