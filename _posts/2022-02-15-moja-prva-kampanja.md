@@ -16,7 +16,7 @@ V tem post-u bom skušala čim bolj jasno in razumljivo opisati, kako sem s pomo
 Začelo se je z delavnico kreativnega oglaševanja, z naslovom: **"Iz muhe v slona ali kako do opaznih interaktivnih akcij"**, na kateri sta se predavatelja (ki sta bila tudi del komisije za ocenjevanje del, prijavljenih na natečaj) skupaj z udeleženci sprehodila skozi nekaj osnovnih načel uspešnih interaktivnih zgodb in na koncu udeležencem predstavila kreativni brief. Namen delavnice je bil ustvariti uvod v snovanje kampanje in udeležencem dati nekaj idej, kako se lahko lotijo samega izziva. Na koncu sta bila predavatelja na voljo za morebitna vprašanja v zvezi s kreativnim briefom. Po tem, smo imeli udeleženci približno 14 dni časa, da smo uporabili svojo kreativno žilico in predstavili svojo idejo kampanje v večinoma pisni obliki, s pomočjo nekaj vizualnih oziroma slikovnih gradiv.
 
 <figure class="align-center">
-    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/kreativni_brief.png">
+    <img class="align-center" style="width:90%;border:3px solid;border-color:#ea3382" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/kreativni_brief.png">
     <figcaption style="text-align:center">Kreativni brief</figcaption>
 </figure>
 
@@ -42,49 +42,49 @@ V svojem videu sem v prvih treh sekundah za pritegnitev pozornosti pokazala slik
 Za prvi dan sem torej načrtovala objavo TikTok videa na Instagram - kot objavo in kot zgodbo. Na zgodbo sem dodala še vprašanje, ki udeležence pozove, da odgovorijo nanj. Vprašanje se je glasilo: "Kako lahko zmanjšamo onesnaževanje okolja s plastiko?"
 
 <figure class="align-center">
-    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/tiktok_video.png">
+    <img class="align-center" style="width:90%;border:3px solid;border-color:#ea3382" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/tiktok_video.png">
     <figcaption style="text-align:center">1. dan - TikTok video</figcaption>
 </figure>
 
 Za drugi dan sem načrtovala objavo o tem, koliko milijonov ton plastike na leto pristane v oceanih in na zgodbo dodala vprašanje: "Veš kako lahko želvici rešiš življenje?". Pri tem je šlo za izbiro odgovora Seveda ali pa Ne. 
 
 <figure class="align-center">
-    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/2_dan.png">
+    <img class="align-center" style="width:90%;border:3px solid;border-color:#ea3382" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/2_dan.png">
     <figcaption style="text-align:center">2.dan</figcaption>
 </figure>
 
 Tretji dan se je objava nanašala na spodbujanje k recikliranju, na zgodbo sem dodala vprašanje: "Kaj bi pa ti naredil?" in zraven dva možna odgovora: "Zmanjšal nakupe živil v plastični embalaži" in "Uporabljal trajnostno embalažo".
 
 <figure class="align-center">
-    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/3_dan.png">
+    <img class="align-center" style="width:90%;border:3px solid;border-color:#ea3382" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/3_dan.png">
     <figcaption style="text-align:center">3.dan</figcaption>
 </figure>
 
 Četrti dan sem uporabila dejstvo, koliko odstotkov plastične embalaže je samo za enkratno uporabo in na zgodbo zastavila odprto vprašanje: "Kako bi pa ti pripomogel k izboljšanju koristi?"
 
 <figure class="align-center">
-    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/4_dan.png">
+    <img class="align-center" style="width:90%;border:3px solid;border-color:#ea3382" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/4_dan.png">
     <figcaption style="text-align:center">4.dan</figcaption>
 </figure>
 
 Peti dan sem izpostavila koliko plastike pridelamo vsako leto in na zgodbi pozvala občinstvo, da glasujejo ali so že zmanjšali uporabo plastike ali ne.
 
 <figure class="align-center">
-    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/5_dan.png">
+    <img class="align-center" style="width:90%;border:3px solid;border-color:#ea3382" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/5_dan.png">
     <figcaption style="text-align:center">5.dan</figcaption>
 </figure>
 
 Šesti dan sem navedla koliko časa potrebuje plastenka za razgradnjo v morju in na zgodbo dodala odprto vprašanje: "S čim bi pa ti zamenjal plastenko?"
 
 <figure class="align-center">
-    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/6_dan.png">
+    <img class="align-center" style="width:90%;border:3px solid;border-color:#ea3382" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/6_dan.png">
     <figcaption style="text-align:center">6.dan</figcaption>
 </figure>
 
 Kot zadnje, sem izpostavila količino ogljikovega dioksida, ki ga povzroča razgradnja plastike. Na zgodbo sem za zaključek dodala trditev malo bolj za hec kot zares, saj je bil odgovor dokaj samoumeven. Trditev se je glasila "Ogljikov dioksid je škodljiv plin/koristen plin".
 
 <figure class="align-center">
-    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/7_dan.png">
+    <img class="align-center" style="width:90%;border:3px solid;border-color:#ea3382" src="/assets/images/posts/2022-02-15-moja-prva-kampanja/7_dan.png">
     <figcaption style="text-align:center">7.dan</figcaption>
 </figure>
 

@@ -24,7 +24,7 @@ Zelo uporabna je **SWOT analiza (strengths, weaknesses, opportunities, threats)*
 Ko smo odgovorili na ključna vprašanja in naredili SWOT analizo, pa nas čaka še en izredno pomemben korak in sicer določitev ciljev. Cilje moramo postaviti zato, da vemo k čemu stremimo in na kaj se moramo pravzaprav osredotočiti.  Merimo jih s **KPI-ji (key performance indicators), oziroma s kazalci uspešnosti**. To so kvantificirane mere, ki nam pomagajo, da se lažje osredotočimo na metrike, za doseganje naših ciljev. Cilji, ki si jih zastavimo, morajo biti **merljivi**, **praktični**, **dosegljivi** in **usmerjeni**, le tako lahko dosežemo dolgoročen uspeh.
 
 <figure class="align-center">
-    <img class="align-center" style="width:90%;border:4px solid;border-color:#333" src="/assets/images/posts/2022-06-15-google-digitalna-garaza/zapiski.jpg">
+    <img class="align-center" style="width:90%;border:3px solid;border-color:#ea3382" src="/assets/images/posts/2022-06-15-google-digitalna-garaza/zapiski.jpg">
     <figcaption style="text-align:center">Zapiski</figcaption>
 </figure>
 
