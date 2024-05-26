@@ -1,6 +1,6 @@
 ---
 title: "Email marketing"
-excerpt: "Zapiski z učenja o Email marketingu"
+excerpt: "Osnove Email marketinga"
 categories:
   - learning
 tags:
@@ -115,3 +115,5 @@ Za konec navedem še nekaj orodij, ki jih lahko uporabljamo pri pripravi sporoč
 - HubSpot
 
 V tem članku smo obdelali nekaj osnov **Email marketinga**, sedaj pa je čas, da se v njem tudi preizkusimo. Do naslednjič. 
+
+* Zapiski izhajajo iz vodnika E-Mail Marketing Fundamentals, eMarketing Institute-a.

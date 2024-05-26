@@ -14,7 +14,7 @@ Moja strast do marketinga se je tekom študija le še povečala, zato sem lani p
 Svoje znanje sem nato nadgrajevala v podjetju **Proevent**, ki se ukvarja predvsem z organizacijo dogodkov, del podjetja pa sestavlja tudi marketinška agencija, ki skrbi za marketing za zunanje naročnike in pri čemer sem sama sodelovala največ. Skrbela sem predvsem za Facebook profile naročnikov, pripravljala sem organske objave - besedila in kreative, ustvarjala Email marketing kampanje s pomočjo orodja Mailchimp - mesečne novičnike, ki so bili razposlani vsem strankam in spoznala osnove Facebook oglaševanja. Poleg tega pa sem veliko sodelovala tudi pri organizaciji dogodkov, kjer sem skrbela predvsem za marketing. 
 
 ##### HS Plus
-Trenutno svoje znanje nadgrajujem v podjetju **HS Plus** kot Facebook oglaševalka. Skrbim za pripravo kampanj, ki so večinoma usmerjene h cilju konverzij, za njihovo optimizacijo in spremljanje analitike, njihovo analizo ter pripravo načrtov za prihodnost. Testiram različne kreative in besedila, s ciljem najti najbolj optimalne možnosti oglaševanja. Oglašujem izdelke iz spletne trgovine, ki ponuja širok izbor izdelkov na veliko evropskih trgih. Moje delo v največji meri obsega spremljanje analitike in upravljanje z vsotami, poleg tega pa še iskanje novih načinov postavljanja kampanj, spremljanja novosti na področju Mete, spremljanje trendov in opazovanje konkurence.
+Trenutno svoje znanje nadgrajujem v podjetju **HS Plus** kot Facebook oglaševalka. Skrbim za pripravo kampanj, ki so večinoma usmerjene h cilju konverzij, za njihovo optimizacijo in spremljanje analitike, njihovo analizo ter pripravo načrtov za prihodnost. Testiram različne kreative in besedila, s ciljem najti najbolj optimalne možnosti oglaševanja. Oglašujem izdelke iz spletne trgovine, ki ponuja širok izbor izdelkov na večini evropskih trgov. Moje delo v največji meri obsega spremljanje analitike in upravljanje z visokimi vsotami, poleg tega pa še testiranje različnih vrst in načinov kampanj (Advantage+ Shopping Campaign, A/B test, ABO, CBO, ROAS, lifetime budget in podobno), iskanje novih načinov postavljanja kampanj, spremljanja novosti na področju Mete, spremljanje trendov in opazovanje konkurence.
 
 ---
 
@@ -33,8 +33,10 @@ Potem sem se lotila opravljanja še malo "resnejših" in tudi bolj obsežnih te�
 *    **Growth Hacking with Digital Marketing**, EAZL, eptember 2021
 *    **Basics of digital marketing**, Google Digital Garage, februar, 2022
 *    **Google Analytics for Beginners**, Google Analytics Academy, februar 2022
-*    **Email Marketing**, eMarketing Institute, marec 2022
+*    **Email Marketing**, eMarketing Institute, marec 2023
 *    **Digital Marketing Masterclass**, Udemy, januar 2024
+*    **Google Ads Masterclass**, Udemy, februar 2024
+*    **SEO Training**, Udemy, marec 2024
 
 ---
 

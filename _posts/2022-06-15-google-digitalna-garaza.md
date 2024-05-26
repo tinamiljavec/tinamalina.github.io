@@ -1,6 +1,6 @@
 ---
 title: "Google digitalna garaža"
-excerpt: "Zapiski z učenja s pomočjo Google digitalne garaže"
+excerpt: "Osnove digitalnega marketinga"
 categories:
   - learning
 tags:
